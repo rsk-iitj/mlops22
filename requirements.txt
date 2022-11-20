@@ -5,4 +5,5 @@ sklearn
 pandas
 matplotlib
 scikit_learn
+flask
 
