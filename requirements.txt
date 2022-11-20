@@ -1,0 +1,8 @@
+argparse
+joblib
+numpy 
+sklearn
+pandas
+matplotlib
+scikit_learn
+
